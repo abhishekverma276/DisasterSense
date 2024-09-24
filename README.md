@@ -1,0 +1,6 @@
+# DisasterSense
+
+## THIS PROJECT IS CURRENTLY UNDER DEVELOPMENT
+DisasterSense is a cutting-edge real-time disaster management platform developed to significantly improve emergency response efforts. The platform leverages advanced machine learning algorithms and real-time data extraction to analyze information from social media and other sources. By processing this data, DisasterSense assigns a danger score to various affected regions, which helps in assessing the severity of the situation.
+
+The platform's analysis generates detailed heat maps that visually represent areas of varying levels of risk, allowing for a clear and immediate understanding of the disaster's impact. In addition to these visual tools, DisasterSense sends real-time alerts to key stakeholders, including emergency responders, government agencies, and the general public. These alerts are designed to provide timely information and updates, facilitating prompt and coordinated response actions. By offering these crucial insights, DisasterSense aims to enhance the effectiveness of disaster management strategies, improve situational awareness, and ensure that resources and assistance are directed where they are most needed. The platform's integration of social media data and real-time analysis provides a dynamic and responsive tool for managing and mitigating the impact of natural disasters.
